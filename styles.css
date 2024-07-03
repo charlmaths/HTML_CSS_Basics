@@ -27,3 +27,19 @@
   color: black;
   font-weight: bold;
 }
+
+.first-elem,
+.second-elem {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 28px;
+}
+
+.first-elem {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+
+.second-elem {
+  background-color: yellow;
+}
