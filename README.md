@@ -1,3 +1,5 @@
-# HTML_CSS_Basics
+# HTML_CSS_Methods
 
-#### This repository contains basic HTML/CSS approach.
+### The Odin Project:
+
+# CSS Exercise-01: CSS methods
