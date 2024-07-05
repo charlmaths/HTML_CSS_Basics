@@ -43,3 +43,25 @@
 .second-elem {
   background-color: yellow;
 }
+
+.box {
+  font-size: 5rem;
+  background-color: pink;
+  /* Box Model */
+
+  height: 100px;
+  width: 300px;
+  /* padding-top: ;
+  padding-right: ;
+  padding-bottom: ;
+  padding-left: ; */
+  padding: 10px;
+
+  /* margin-top: ;
+  margin-right: ;
+  margin-bottom: ;
+  margin-left: ; */
+  margin: 32px;
+
+  border: 5px solid black;
+}
