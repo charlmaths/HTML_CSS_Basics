@@ -71,16 +71,30 @@
   border: 3px solid blue;
   background-color: pink;
   box-sizing: border-box;
+  width: 900px;
+  height: 100px;
+  margin: 10px;
+  padding-top: 40px;
+  padding-left: 40px;
+  padding-bottom: 40px;
 }
 
 .TWO {
   border: 3px solid purple;
   background-color: lightblue;
   box-sizing: border-box;
+  margin: 10px;
 }
 
 .THREE {
   border: 3px solid brown;
   background-color: burlywood;
   box-sizing: border-box;
+  width: 250px;
+  height: 80px;
+  margin-right: auto;
+  margin-top: 50px;
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-bottom: 30px;
 }
