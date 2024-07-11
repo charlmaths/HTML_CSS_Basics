@@ -65,3 +65,22 @@
 
   border: 5px solid black;
 }
+
+/* Exercise 4 - Margins and Padding */
+.ONE {
+  border: 3px solid blue;
+  background-color: pink;
+  box-sizing: border-box;
+}
+
+.TWO {
+  border: 3px solid purple;
+  background-color: lightblue;
+  box-sizing: border-box;
+}
+
+.THREE {
+  border: 3px solid brown;
+  background-color: burlywood;
+  box-sizing: border-box;
+}
