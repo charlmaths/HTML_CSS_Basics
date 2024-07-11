@@ -98,3 +98,41 @@
   padding-left: 30px;
   padding-bottom: 30px;
 }
+
+.carddiv {
+  background-color: lightblue;
+  margin: 8px;
+  font-family: monospace;
+  font-size: larger;
+  font-weight: bold;
+  padding: 8px;
+}
+
+.paradiv {
+  background-color: lightblue;
+  margin: 8px;
+  font-family: monospace;
+  font-size: larger;
+  font-weight: bold;
+  padding: 8px;
+}
+
+.buttondiv {
+  background-color: lightblue;
+  margin: 8px;
+  font-family: monospace;
+  font-size: larger;
+  font-weight: bold;
+  padding: 8px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.buttondiv p {
+  background: none;
+}
+.buttondiv button {
+  box-sizing: border-box;
+  background: white;
+  border: 1px solid #eee;
+}
